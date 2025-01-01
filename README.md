@@ -1,5 +1,5 @@
 # 💫 About Me:
-I enjoy working on game projects and tackling various challenges
+I enjoy working on game developement and tackling various challenges
 
 
 # 💻 Tech Stack:
